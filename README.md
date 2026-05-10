@@ -14,7 +14,7 @@ Without air resistance, horizontal and vertical motion are independent — solve
 With air resistance, drag couples both directions making analytical solution impossible — solved numerically.
 
 ## Output
-- [Projectile Motion](projectile.png)
+- [Projectile Motion](projectile.png) visualaisation
 - Range for both cases
 - Maximum height reached for both cases
 
