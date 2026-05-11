@@ -10,8 +10,8 @@ A Python simulation comparing projectile trajectories with and without air resis
 - Visualises and compares both trajectories
 
 ## Physics
-Without air resistance, horizontal and vertical motion are independent — solved analytically.
-With air resistance, drag couples both directions making analytical solution impossible — solved numerically.
+Without air resistance, horizontal and vertical motion are independent: solved analytically.
+With air resistance, drag couples both directions making analytical solution impossible: solved numerically.
 
 ## Output
 - [Projectile Motion](projectile.png) visualaisation and Trajectory
